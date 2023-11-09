@@ -88,6 +88,7 @@ struct LeftSideBarView: View {
                 }.padding()
                 Spacer()
             }
+            .padding(.top, 40)
             .padding(.bottom)
             .background(.thickMaterial)
             .background(Color(.systemBackground).opacity(0.8))

@@ -17,7 +17,7 @@ struct MainView: View {
     @Environment(\.dismiss) private var dismiss
         
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ZStack {
                 VStack {
                     WeatherView(weather: weather, viewModel: viewModel)
