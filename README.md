@@ -27,7 +27,7 @@ The Weathery App is a simple yet feature-rich iOS application built using SwiftU
 ### Getting Started
 
 1. Create an acount on Openweathermap and get a valid API key.
-2. Clone the repository to your local machine.
+2. Clone the repository to your local computer.
 3. Open the Xcode project.
 4. Replace apiKey with your valid Openweathermap API key.
 5. Build and run the app on your iOS device or simulator.
